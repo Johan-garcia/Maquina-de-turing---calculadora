@@ -145,5 +145,5 @@ Maneja la interfaz de usuario y el bucle principal del programa.
 - **División por cero**: Retorna mensaje de error
 - **Formato inválido**: Detecta entrada mal formateada
 - **Operadores no válidos**: Rechaza operadores no soportados
-- **Interrupciones**: Maneja Ctrl+C de forma elegante
+
 
