@@ -1,5 +1,10 @@
 # Máquina de Turing Aritmética
 
+Creado por:
+Juan Joya
+Santiago Diaz
+Johan Garcia
+
 Una implementación en Python de una máquina de Turing que puede realizar operaciones aritméticas básicas: suma, resta, multiplicación y división.
 
 ## Descripción
@@ -142,10 +147,3 @@ Maneja la interfaz de usuario y el bucle principal del programa.
 - **Operadores no válidos**: Rechaza operadores no soportados
 - **Interrupciones**: Maneja Ctrl+C de forma elegante
 
-## Autor
-
-Implementación de máquina de Turing aritmética en Python.
-
-## Licencia
-
-Este proyecto es de uso libre para fines educativos y de aprendizaje.
